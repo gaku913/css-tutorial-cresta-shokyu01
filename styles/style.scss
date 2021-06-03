@@ -234,18 +234,20 @@ footer {
 }
 
 @media (min-width: 1050px) {
-  .menu {
-    display: block;
-    font-size: 16px;
-
-    ul {
-      display: flex;
-      margin-right: 120px;
-
-      li {
-        margin-right: 55px;
-        &:last-of-type {
-          margin-right: 0;
+  header {
+    .menu {
+      display: block;
+      font-size: 16px;
+  
+      ul {
+        display: flex;
+        margin-right: 120px;
+  
+        li {
+          margin-right: 55px;
+          &:last-of-type {
+            margin-right: 0;
+          }
         }
       }
     }
