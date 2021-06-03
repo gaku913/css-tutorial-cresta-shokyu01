@@ -294,6 +294,7 @@ footer {
   }
   #service img {
     width: 480px;
+    height: 248px;
   }
   #news .inner {
     display: -webkit-box;
